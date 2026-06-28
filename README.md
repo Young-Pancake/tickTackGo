@@ -1,2 +1,2 @@
-# tickTackGo
-A CLI tic tac toe tool written in Go!
+# ticTacGo
+## A CLI tic tac toe tool written in Go!  
